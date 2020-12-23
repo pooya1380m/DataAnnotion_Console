@@ -1,0 +1,14 @@
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\DataAnnotations.exe.config
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\DataAnnotations.exe
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\DataAnnotations.pdb
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\EntityFramework.dll
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\EntityFramework.xml
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.csprojAssemblyReference.cache
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.csproj.CopyComplete
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.exe
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.pdb
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.Migrations.InshialModel.resources
+C:\Users\pooya\OneDrive\Desktop\DataAnnotations\obj\Debug\DataAnnotations.csproj.GenerateResource.cache
